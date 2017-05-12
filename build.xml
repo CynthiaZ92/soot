@@ -204,6 +204,7 @@
                 <pathelement location="classes"/>
                 <pathelement location="${polyglot.jar}"/>
                 <pathelement location="${jasmin.jar}"/>
+		<pathelement location="${junit.jar}"/>
             </classpath>
 
             <formatter type="plain"/>
